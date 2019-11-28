@@ -8,3 +8,6 @@ We have made a problem statement, which will guide the analyses of our assignmen
     To what extent does the accommodation features and titles have influence on the prices?
  
 To answer the above problem statement we will use Machine Learning techniques on six different features, which might have an influence on the prices to see how precise we can predict whether the accommodation has a prices above or below the average price. We will also use Deep Learning techniques on the accommodation titles to see how precise these predictions are compared to the actual prices and the first predictions. 
+
+
+Link to Colab: https://colab.research.google.com/drive/1NrrkuLLsbX0xNTSOU4aRItn3abki1DO6 
