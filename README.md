@@ -12,3 +12,5 @@ To answer the above problem statement we will use Machine Learning techniques on
 
 
 Link to Colab: https://colab.research.google.com/drive/1NrrkuLLsbX0xNTSOU4aRItn3abki1DO6 
+
+Pdf of the colabatory and stakeholder report can be accessed above. 
